@@ -1,0 +1,5 @@
+Problema con ELEMENTOR, error al abrir una plantilla de "entradas" con el mensaje de Service Unavailible.
+
+EL problema fue derivado de eliminar la única entrada del blog. Elementor no podía cargar la vista previa de la plantilla.
+
+Recuperé la entrada borrada de la papelera y listo!
